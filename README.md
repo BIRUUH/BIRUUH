@@ -1,4 +1,8 @@
-<h1 align="center">Hello ALL!</h1>
+<h1 align="center">
+    <img src="assets/globe.gif" height="30" alt="globe gif"  />
+    Hello ALL!
+    <img src="assets/Hi.gif" height="30" alt="globe gif"  />
+</h1>
 
 ###
 
@@ -64,7 +68,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=BIRUUH&theme=gitdimmed&no-frame=true&margin-w=6" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=BIRUUH&theme=gitdimmed&no-frame=true&margin-w=6" height="100" alt="trophy graph"  />
 </div>
 
 ###
@@ -78,14 +82,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://pagespeed.web.dev/analysis?url=https://github.com/BIRUUH">
-    <img src="https://pagespeed-insights-for-github-readme.vercel.app/api?url=https://github.com/BIRUUH&theme=dark&strategy=desktop" width="100%" alt="PageSpeed Insights" />
-  </a>
-</div>
 
 ###
 
@@ -117,6 +113,10 @@
 </div>
 
 ###
+
+<div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+new+roman&pause=1000&width=435&size=30&color=000000&lines=Me+and+My+Team;Let+us+cook" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img height="170" src="assets/cat_thinking.gif"/>
