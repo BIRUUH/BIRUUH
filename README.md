@@ -63,14 +63,14 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/languages-output/languages.svg" height="110" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/trophy-output/trophy.svg" height="110" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=BIRUUH&theme=gitdimmed&no-frame=true&margin-w=6" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/activity-graph-output/activity-graph.svg" height="10" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/activity-graph-output/activity-graph.svg" height="100%" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -78,6 +78,12 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+    <img src="https://pagespeed-insights.herokuapp.com?url=https://github.com/BIRUUH&theme=dark&strategy=desktop" width="100%">
+</div>
 
 ###
 
