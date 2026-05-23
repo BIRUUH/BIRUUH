@@ -82,7 +82,9 @@
 ###
 
 <div align="center">
-    <img src="https://pagespeed-insights.herokuapp.com?url=https://github.com/BIRUUH&theme=dark&strategy=desktop" width="100%">
+  <a href="https://pagespeed.web.dev/analysis?url=https://github.com/BIRUUH">
+    <img src="https://pagespeed-insights-for-github-readme.vercel.app/api?url=https://github.com/BIRUUH&theme=dark&strategy=desktop" width="100%" alt="PageSpeed Insights" />
+  </a>
 </div>
 
 ###
