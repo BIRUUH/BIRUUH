@@ -79,7 +79,6 @@
 
 ###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/BIRUUH/BIRUUH/snake-output/snake.svg" alt="Snake animation" />
 
@@ -94,10 +93,18 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="40" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  <a href="https://instagram.co/hkalmmm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/biruuh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="50" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/m_haikal_pratama" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="50" alt="telegram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/haikal-pratama-9a1406411" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -115,7 +122,7 @@
 ###
 
 <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+new+roman&pause=1000&width=435&size=30&color=000000&lines=Me+and+My+Team;Let+us+cook" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+new+roman&pause=1000&width=435&size=30&color=ffffff&lines=Me+and+My+Team;Let+us+cook" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
